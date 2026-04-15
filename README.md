@@ -6,9 +6,13 @@ During my learning journey with Satish Dhawale Sir’s SkillCourse, I created a 
 
  This dashboard transforms raw mobile sales data into clear, interactive insights 📊.
 ✨ Key Highlights of the Dashboard:
+
  ✅ 9M+ Total Sales with 40K Average Transaction Value
+ 
  ✅ Sales Performance by City, Brand & Mobile Model
+ 
  ✅ Monthly Quantity Trends & Customer Ratings
+ 
  ✅ Transactions by Payment Method (Credit Card, UPI, Cash, Debit Card)
  
 🛠 Tools & Skills Used:
